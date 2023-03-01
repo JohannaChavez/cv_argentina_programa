@@ -3,21 +3,15 @@
     padding: 0;
 }
 
-
-
-
 body {
     background-color: #f76a8c;
-
 }
 
 header {
     width: 100%;
     height: 200px;
     background-color: #41315e;
-
 }
-
 
 img {
     margin: 0 auto;
@@ -28,7 +22,6 @@ img {
     border-radius: 50%;
     float: left;
     padding: 20px;
-
 }
 
 h1 {
@@ -37,8 +30,6 @@ h1 {
     text-align: center;
     font-size: 80px;
     text-shadow: 2px 2px 5px rgb(254, 237, 237);
-
-
 }
 
 #subtitulo {
@@ -46,14 +37,12 @@ h1 {
     color: #ff9e94;
     text-align: center;
     font-size: 15px;
-
 }
 
 nav {
     text-align: center;
     background-color: #8f4776;
     width: 100%;
-
 }
 
 .datos {
@@ -62,7 +51,6 @@ nav {
     padding: 15px;
     color: azure;
     background-color: #884570;
-
 }
 
 .datos:hover {
@@ -79,7 +67,6 @@ nav {
     aside,
     .informacion2 {
         width: 100%;
-
     }
 
     img {
@@ -98,10 +85,10 @@ nav {
 
     }
 
-.datos{
-    background-color: none;
-    width: 90%;
-}
+    .datos {
+        background-color: none;
+        width: 90%;
+    }
 
 }
 
@@ -111,10 +98,9 @@ button {
     border-radius: 40px;
     color: #ff9e94;
     padding: 15px 32px;
-    
     box-shadow: 0px 0px 10px 0px #41315e;
     cursor: pointer;
-  }
+}
 
 
 
@@ -129,14 +115,11 @@ section {
     width: 95%;
     height: 800px;
     margin: 5%;
-   
 }
 
 .informacion {
     width: 60%;
-
     float: left;
-
     line-height: 1.7;
 }
 
@@ -150,14 +133,8 @@ section {
     margin-right: 50px;
     text-align: center;
     line-height: 1.7;
-
-
-
     background-color: #ffb69f;
     box-shadow: 10px 10px 5px 12px #9a3148;
-
-
-
 }
 
 h2 {
@@ -171,7 +148,6 @@ h2 {
 h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #683e69;
-
     font-size: 18px;
     text-align: justify;
     margin: 15px;
@@ -182,7 +158,6 @@ p {
     color: #683e69;
     font-size: 14px;
     text-align: justify;
-
 }
 
 li {
@@ -192,16 +167,12 @@ li {
     text-align: justify;
 }
 
-
 footer {
     clear: both;
     background-color: #8f4776;
-
-
     padding: 10px;
     margin-top: 7px;
 }
-
 
 .pie {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -209,9 +180,3 @@ footer {
     text-align: center;
     color: aliceblue;
 }
-
-
-
-
-
-
